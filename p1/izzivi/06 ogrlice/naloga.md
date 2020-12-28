@@ -1,0 +1,37 @@
+## Naloga za programerje
+
+Detektiv je osem dni opazoval osumljenko. Prvi dan je nosila ogrlico s črkami WUMYDSR (na sliki). Drugi dan ZQRKJPIZ. Tretji DCYMSLWZ ... No, povejmo kar za vseh osem:
+
+<img style="float: right"  src="data:image/.png;base64,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"/>
+
+```
+WUMYMDSR
+ZQRKJPIZ
+DCYMSLWZ
+IXUGYZBB
+SRWUMYMD
+JKRQZZIP
+OWAHBGVG
+MYMUWRSD
+```
+
+Koliko različnih ogrlic ima? Osem? Ne. Peti dan je nosila isto ogrlico kot prvi, le malo drugače je bila zasukana. Pa tudi zadnji dan je nosila isto ogrlico, le da ni samo zasukana temveč tudi prezrcaljena (prvi dan si jo je nataknila čez glavo, osmi pa čez noge).
+
+Napiši program, ki za podano datoteko pove, koliko različnih ogrlic vsebuje.
+
+Vsebino datoteke boste najlažje prebrali z
+
+```python
+ogrlice = list(map(str.strip, open("ogrlice1000.txt")))
+```
+
+`ogrlice1000.txt` seveda zamenjate z imenom datoteke, ki jo želite brati.
+
+
+## Naloga za matematike ali programerje
+
+Recimo, da ima osumljenka 1000 različnih ogrlic. Opazujemo jo 1000 dni. Koliko različnih ogrlic bomo videli?
+
+Odgovor je seveda odvisen od sreče. Morda (a ne prav verjetno) vseh 1000, morda (a enako neverjetno) samo eno. Kakšno pa je *pričakovano število različnih ogrlic?? Če bi ta eksperiment velikokrat ponovili (večkrat opazujemo isto osumljenko za 1000 dni in preverimo, koliko različnih ogrlic je pokazala): koliko ogrlic bi videli v poprečju?
+
+To se da izračunati ali simulirati.

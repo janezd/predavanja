@@ -1,0 +1,5 @@
+Ana 4 2 3 4 5
+Berta 4 3
+Cilka 5 5 3 5
+Dani 4 3 5
+Ema 3

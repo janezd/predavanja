@@ -1,0 +1,9 @@
+Merkur
+Venera
+Zemlja
+Mars
+Jupiter
+Saturn
+Uran
+Neptun
+Pluton
