@@ -1,8 +1,9 @@
-Zapiski predavanj, rešitve domačih nalog in drugo, povezano s predavanji iz programiranja in iz algoritmov.
+Zapiski predavanj, rešitve domačih nalog in drugo, povezano s predavanji iz programiranja in iz algoritmov:
 
-Za zdaj je tu [Programiranje 1 s FRI](https://ucilnica.fri.uni-lj.si/course/view.php?id=166) in
-[Programiranje s Kognitivne znanosti](https://ucilnica.fri.uni-lj.si/course/view.php?id=175), pridružiti pa se nameravajo tudi
-Algoritmi in podatkovne strukture ter Programiranje 1 s Pedagoške fakultete.
+- [Programiranje 1 na FRI](https://ucilnica.fri.uni-lj.si/course/view.php?id=166),
+- [Programiranje 1 na PeF](https://ucilnica.pef.uni-lj.si/course/view.php?id=177),
+- [Programiranje na Kognitivni znanosti](https://ucilnica.fri.uni-lj.si/course/view.php?id=175),
+- [Algoritmi in podatkovne strukture na PeF](https://ucilnica.pef.uni-lj.si/course/view.php?id=186).
 
 Zapiske lahko
 - gledate na Githubu,
