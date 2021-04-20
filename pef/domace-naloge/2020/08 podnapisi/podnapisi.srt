@@ -1,0 +1,21 @@
+1
+00:00:02,618 --> 00:00:05,019
+(Finch) We are being watched.
+
+2
+00:00:05,021 --> 00:00:07,288
+The government has a secret system,
+
+3
+00:00:07,290 --> 00:00:11,626
+a machine that spies on you
+every hour of every day.
+
+4
+00:00:11,628 --> 00:00:14,128
+I designed the machine
+to detect acts of terror,
+
+5
+00:00:14,130 --> 00:00:15,963
+but it sees everything,
