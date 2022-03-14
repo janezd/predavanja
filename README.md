@@ -1,9 +1,9 @@
 Zapiski predavanj, rešitve domačih nalog in drugo, povezano s predavanji iz programiranja in iz algoritmov:
 
 - [Programiranje 1 na FRI](https://ucilnica.fri.uni-lj.si/course/view.php?id=166),
-- [Programiranje 1 na PeF](https://ucilnica.pef.uni-lj.si/course/view.php?id=177),
+- [Programiranje 1 na PeF](https://ucilnice.arnes.si/course/view.php?id=73114),
 - [Programiranje na Kognitivni znanosti](https://ucilnica.fri.uni-lj.si/course/view.php?id=175),
-- [Algoritmi in podatkovne strukture na PeF](https://ucilnica.pef.uni-lj.si/course/view.php?id=186).
+- [Algoritmi in podatkovne strukture na PeF](https://ucilnice.arnes.si/course/view.php?id=73155).
 
 Zapiske lahko
 - gledate na Githubu,
