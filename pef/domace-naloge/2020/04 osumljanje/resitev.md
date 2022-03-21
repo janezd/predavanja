@@ -1,4 +1,4 @@
-Se je lotila naloge. Je mislila, da ne bo težko. Naloga je bila praktično enaka kot prejšnji teden: morala je napisati funkcijo `osumljenci(osebe, zdravi, obiski)`, ki prejme neko množico oseb, neko množico preverjeno zdravih oseb in seznam obiskov. Funkcija je morala vrniti ... no, poenostavimo: tiste osebe iz množice `osebe`, ki se niso družile z nobeno zdravo osebo. Ja, praktično isto, oziroma še malo enostavneje, kot funkcija `osumljenci`, ki smo jo pisali prejšnji teden.
+Bilo je leta 2021. Lotila se je naloge. Mislila je, da ne bo težko. Naloga je bila [praktično enaka kot prejšnji teden](https://github.com/janezd/predavanja/blob/master/pef/domace-naloge/2020/03%20okuzbe/resitev.ipynb): morala je napisati funkcijo `osumljenci(osebe, zdravi, obiski)`, ki prejme neko množico oseb, neko množico preverjeno zdravih oseb in seznam obiskov. Funkcija je morala vrniti ... no, poenostavimo: tiste osebe iz množice `osebe`, ki se niso družile z nobeno zdravo osebo. Ja, praktično isto, oziroma še malo enostavneje, kot funkcija `osumljenci`, ki so jo pisali prejšnji teden.
 
 In je sprogramirala.
 
