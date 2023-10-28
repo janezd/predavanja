@@ -1,0 +1,35 @@
+pisalni stroj,Fran Finžgar,16
+pisalni stroj,Mimi Malenšek,21
+pisalni stroj,Janez Jalen,24
+pisalni stroj,Mimi Malenšek,27
+pisalni stroj,Janez Jalen,31
+pisalni stroj,Mimi Malenšek,35
+pisalni stroj,Fran Finžgar,38
+pisalni stroj,Mimi Malenšek,43
+pisalni stroj,Fran Finžgar,45
+pisalni stroj,Mimi Malenšek,49
+svinčnik,Mimi Malenšek,39
+svinčnik,Berta Bojetu,41
+svinčnik,Anton Aškerc,43
+svinčnik,Mimi Malenšek,44
+svinčnik,Anton Aškerc,46
+svinčnik,Mimi Malenšek,48
+radirka,Berta Bojetu,25
+radirka,Janez Jalen,26
+radirka,Fran Finžgar,31
+radirka,Berta Bojetu,33
+radirka,Mimi Malenšek,37
+radirka,Anton Aškerc,42
+radirka,Mimi Malenšek,43
+radirka,Anton Aškerc,45
+radirka,Berta Bojetu,49
+radirka,Anton Aškerc,52
+papir,Anton Aškerc,45
+papir,Mimi Malenšek,48
+papir,Berta Bojetu,52
+papir,Anton Aškerc,54
+diktafon,Anton Aškerc,47
+slovar slovenskega knjižnega jezika,Fran Finžgar,25
+slovar slovenskega knjižnega jezika,Janez Jalen,27
+slovar slovenskega knjižnega jezika,Fran Finžgar,32
+slovar slovenskega knjižnega jezika,Anton Aškerc,33
