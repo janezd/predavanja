@@ -1,0 +1,12 @@
+avtomobilček: 15
+barvice: 7
+bomboni: 3
+knjiga: 15
+medvedek: 15
+pisalo: 3
+piškoti: 3
+zvezek: 4
+čelada: 22
+čokolada: 3
+žirafa: 13
+žoga: 20

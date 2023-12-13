@@ -1,0 +1,13 @@
+barvice: 9
+bomboni: 3
+glina: 3
+knjiga: 15
+kocke: 28
+kolo: 230
+medvedek: 15
+pero: 5
+pisalo: 3
+piškoti: 5
+čelada: 25
+čokolada: 4.5
+žoga: 22

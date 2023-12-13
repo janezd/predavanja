@@ -1,0 +1,13 @@
+avtomobilček: 15
+barvice: 9
+bomboni: 3
+knjiga: 12
+medvedek: 15
+pero: 4
+pisalo: 3
+piškoti: 4.5
+vlak: 15
+zemljevid: 9
+zvezek: 5
+čokolada: 3.5
+žoga: 22
