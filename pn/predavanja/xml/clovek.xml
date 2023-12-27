@@ -1,0 +1,14 @@
+<oseba>
+   <ime>Janez</ime>
+   <priimek>Novak</priimek>
+   <starost>35</starost>
+   <danRojstva>1. 1. 1971</danRojstva>
+   <krajRojstva>Vrhnika</krajRojstva>
+   <kontakti>
+       <telefon tip="domaci">+386 1 234 5678</telefon>
+       <telefon tip="sluzbeni">+386 1 876 5432</telefon>
+       <mail uraden="ne">janez.novak@gmail.com</mail>
+       <mail uraden="ne">janez.novak@hotmail.com</mail>
+       <mail uraden="da">janez.novak@fri.uni-lj.si</mail>
+   </kontakti>
+</oseba>
