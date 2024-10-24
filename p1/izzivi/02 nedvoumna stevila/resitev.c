@@ -8,7 +8,7 @@ int main() {
     for(int i = 2; i != 100000; i++) {
         if (pojavitve[i] == 1) {
             int up = i < 50000 ? 2 * i : 100000;
-            for(int f = 0, j = i; j < up; )
+            for(int f = 0, j = i; j < up; ) {
                 pojavitve[j++] += pojavitve[f++];
             }
         }
