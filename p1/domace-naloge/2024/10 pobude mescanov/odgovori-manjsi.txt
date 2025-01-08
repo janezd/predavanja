@@ -1,0 +1,31 @@
+[1059] Pobuda 1: prejem
+[1099] Pobuda 1: Zofka prepusti: Johanca
+[1141] Pobuda 1: Johanca odgovori: Problem bomo preučili in ukrepali skladno s pristojnostmi.
+[3032] Pobuda 2: prejem
+[3092] Pobuda 2: Tina prepusti: Urša
+[3138] Pobuda 2: Urša odgovori: Predlagana sprememba ni v načrtu.
+[5191] Pobuda 3: prejem
+[5278] Pobuda 3: Angelca prepusti: Berta
+[5381] Pobuda 3: Berta odgovori: Predlagana sprememba ni v načrtu.
+[8329] Pobuda 4: prejem
+[8407] Pobuda 4: Cilka prepusti: Micka
+[8479] Pobuda 4: Micka prepusti: Petra
+[8569] Pobuda 4: Petra odgovori: Problem bomo preučili in ukrepali skladno s pristojnostmi.
+[9034] Pobuda 5: prejem
+[9103] Pobuda 5: Klara prepusti: Micka
+[9169] Pobuda 6: prejem
+[9196] Pobuda 5: Micka prepusti: Nina
+[9229] Pobuda 6: Zofka prepusti: Johanca
+[9269] Pobuda 5: Nina odgovori: Problem bomo preučili in ukrepali skladno s pristojnostmi.
+[9279] Pobuda 6: Johanca prepusti: Fanči
+[9355] Pobuda 6: Fanči odgovori: Hvala za komentar.
+[9834] Pobuda 7: prejem
+[9872] Pobuda 7: Zofka prepusti: Angelca
+[9948] Pobuda 7: Angelca prepusti: Fanči
+[10039] Pobuda 7: Fanči odgovori: Predlagana sprememba ni v načrtu.
+[11080] Pobuda 8: prejem
+[11126] Pobuda 8: Helga odgovori: Predlagana sprememba ni v načrtu.
+[11591] Pobuda 9: prejem
+[11691] Pobuda 9: Cilka prepusti: Klara
+[11736] Pobuda 9: Klara prepusti: Nina
+[11746] Pobuda 9: Nina odgovori: Predlagana sprememba ni v načrtu.
