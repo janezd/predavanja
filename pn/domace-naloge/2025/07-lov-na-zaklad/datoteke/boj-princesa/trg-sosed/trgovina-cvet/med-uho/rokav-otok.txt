@@ -1,0 +1,100 @@
+Ž,reka-med/jabolko-skleda,72
+Š,lubenica-goba/klub-ptica/park-nos,6
+U,boj-princesa/trg-sosed/torba-kanu,72
+P,zelje-testenine/luna-avtobus/blitva-drevo/banana-ptica,17
+Š,rokav-ocean,27
+E,korenje-raketa,25
+U,miza-noht,25
+H,zelje-testenine/banane-teta/usta-breskev,78
+G,boj-princesa/trg-sosed/trgovina-cvet/lopar-prst,85
+ ,boj-princesa/trg-sosed/torba-kanu/sestra-angel,18
+M,zelje-testenine,73
+D,lubenica-goba/klub-ptica/mleko-metulj/avto-bratranec,1
+M,boj-princesa/trg-sosed/torba-kanu/sestra-angel,37
+B,boj-princesa/telefon-ples/hamburger-balon/zemlja-otok,38
+ ,zelje-testenine/banane-teta/usta-breskev/rukola-krava,28
+ ,miza-noht,70
+.,boj-princesa/govedina-klub,44
+L,lubenica-goba/klub-ptica,96
+I,rokav-ocean/drevo-prstan/med-risanje,88
+I,boj-princesa/trg-sosed/zaklad-krompir,32
+U,rokav-ocean/plakat-govedina,48
+O,boj-princesa/trg-sosed/trgovina-cvet/med-uho/kekec-avto,25
+R,lubenica-goba/hlev-teta,57
+O,boj-princesa/govedina-klub,42
+A,lubenica-goba/klub-ptica,3
+ ,reka-med,96
+E,zelje-testenine,16
+E,boj-princesa/trg-sosed/zaklad-krompir/zvon-pragozd,14
+K,boj-princesa/trg-sosed/torba-kanu/sestra-angel,48
+D,zelje-testenine/banane-teta/usta-breskev/rukola-krava,65
+T,zelje-testenine/luna-avtobus/blitva-drevo/banana-ptica,67
+A,zelje-testenine,35
+?,boj-princesa/govedina-klub,13
+E,boj-princesa/grozdje-sladoled,18
+V,kava-kralj,69
+K,boj-princesa/telefon-ples,83
+A,zelje-testenine/luna-avtobus/blitva-drevo,39
+Ž,boj-princesa/jogurt-gozd,17
+?,pot-petelin,43
+ ,boj-princesa/trg-sosed/trgovina-cvet/med-uho/teleskop-stol,63
+N,boj-princesa/trg-sosed/zaklad-krompir/zvon-pragozd,32
+P,lubenica-goba/klub-ptica/mleko-metulj/avto-bratranec,59
+Č,skala-trg,90
+Š,boj-princesa/jogurt-gozd,59
+.,rokav-ocean/drevo-prstan/med-risanje,10
+F,zelje-testenine/banane-teta/usta-breskev/rukola-krava,28
+F,krog-napoj,40
+F,boj-princesa/trg-sosed/trgovina-cvet/med-uho/sliva-testenine,32
+V,lubenica-goba/cvet-miza,48
+?,reka-med/marelica-zvezda/grozdje-grozdje/kraljica-enorog/pingvin-zemlja/ogenj-noht/stric-pajek,44
+O,reka-med/marelica-zvezda/grozdje-grozdje/kraljica-enorog,96
+ ,lubenica-goba/klub-ptica,83
+T,skala-trg,84
+?,boj-princesa/telefon-ples/hamburger-balon/zemlja-otok,93
+B,boj-princesa/telefon-ples,74
+I,lubenica-goba/klub-ptica/mleko-metulj/raca-pesek,24
+J,boj-princesa/trg-sosed/brokoli-rama,32
+I,gosenica-voda,48
+E,reka-med/marelica-zvezda/grozdje-grozdje,48
+N,zelje-testenine/mraz-sladoled,78
+T,reka-med/jabolko-skleda/limona-grozd,1
+L,reka-med/marelica-zvezda/grozdje-grozdje/kraljica-enorog/pingvin-zemlja/ogenj-noht/stric-pajek,38
+.,rokav-ocean/drevo-prstan,94
+N,boj-princesa/trg-sosed/trgovina-cvet/med-uho/teleskop-stol,80
+O,zajec-oklep,2
+C,svetilnik-avtobus,48
+Č,lubenica-goba/klub-ptica/park-nos,69
+C,zelje-testenine/banane-teta/usta-breskev,66
+S,rokav-ocean/drevo-prstan/med-risanje/kanu-kava,85
+Č,boj-princesa/trg-sosed/torba-kanu,87
+Ž,zelje-testenine/banane-teta,85
+V,kmetija-zelenjava,18
+P,svetilnik-avtobus,36
+ ,gosenica-voda,4
+S,boj-princesa/trg-sosed/zaklad-krompir/zvon-pragozd,29
+I,boj-princesa/trg-sosed,38
+S,medved-sadje,40
+J,uho-marmelada,77
+K,lubenica-goba,29
+.,rokav-ocean/drevo-prstan/med-risanje/kanu-kava/vila-svetilnik,88
+?,zelje-testenine,7
+Č,zelje-testenine/banane-teta/usta-breskev,80
+Ž,reka-med/jabolko-skleda/jama-puran,94
+ ,boj-princesa/trg-sosed/torba-kanu,54
+?,zelje-testenine/banane-teta/usta-breskev/rukola-krava/kraljica-krava,94
+H,boj-princesa/trg-sosed/trgovina-cvet/lopar-prst,71
+O,rokav-ocean/drevo-prstan/med-risanje/kanu-kava,97
+K,medved-sadje,30
+A,kmetija-zelenjava,58
+K,lubenica-goba/klub-ptica/mleko-metulj,81
+C,kava-kralj,26
+A,reka-med/jabolko-skleda,89
+V,zelje-testenine/koleraba-travnik,92
+A,boj-princesa/trg-sosed/zaklad-krompir/zvon-pragozd,84
+S,zelje-testenine,68
+Š,boj-princesa/trg-sosed/brokoli-rama,60
+ ,lubenica-goba/klub-ptica/mleko-metulj,79
+K,reka-med/marelica-zvezda,30
+U,lubenica-goba/cvet-miza,30
+.,lubenica-goba/klub-ptica,27
