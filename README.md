@@ -3,7 +3,7 @@ Zapiski predavanj, rešitve domačih nalog in drugo, povezano s predavanji iz pr
 - [Programiranje 1 na FRI](https://ucilnica.fri.uni-lj.si/course/view.php?id=166),
 - [Programiranje 1 na PeF](https://ucilnice.arnes.si/course/view.php?id=73114),
 - [Programiranje na Kognitivni znanosti](https://ucilnica.fri.uni-lj.si/course/view.php?id=175),
-- [Algoritmi in podatkovne strukture na PeF](https://ucilnice.arnes.si/course/view.php?id=73155).
+- ~~[Algoritmi in podatkovne strukture na PeF](https://ucilnice.arnes.si/course/view.php?id=73155)~~ - ni več aktualno, predavatelj in (delno) vsebina sta zdaj druga.
 
 Zapiske lahko
 - gledate na Githubu,
