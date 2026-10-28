@@ -1,0 +1,77 @@
+slika,Berta,31
+slika,Ana,33
+slika,Berta,35
+slika,Fanči,37
+slika,Ana,40
+slika,Fanči,45
+pozlačen dežnik,Ema,29
+Meldrumove vaze,Greta,44
+Meldrumove vaze,Ana,46
+Meldrumove vaze,Greta,48
+Meldrumove vaze,Ana,53
+Meldrumove vaze,Fanči,57
+Meldrumove vaze,Ana,60
+Meldrumove vaze,Greta,61
+Meldrumove vaze,Ana,63
+Meldrumove vaze,Cilka,67
+Meldrumove vaze,Greta,71
+Meldrumove vaze,Fanči,76
+Meldrumove vaze,Cilka,78
+skodelice,Dani,50
+skodelice,Berta,55
+skodelice,Dani,60
+skodelice,Berta,61
+skodelice,Dani,62
+skodelice,Berta,65
+skodelice,Dani,68
+skodelice,Berta,70
+skodelice,Dani,74
+skodelice,Berta,76
+skodelice,Dani,80
+skodelice,Berta,83
+kip,Cilka,30
+kip,Ema,32
+kip,Berta,37
+kip,Ema,39
+kip,Cilka,43
+kip,Berta,44
+kip,Cilka,45
+kip,Dani,50
+kip,Cilka,53
+kip,Greta,55
+kip,Dani,58
+kip,Cilka,61
+kip,Dani,63
+kip,Greta,68
+kip,Cilka,72
+kip,Greta,76
+kip,Ema,77
+kip,Dani,81
+kip,Greta,85
+kip,Cilka,86
+kip,Dani,90
+kip,Greta,92
+kip,Ema,94
+kip,Dani,97
+kip,Ema,98
+kip,Greta,99
+kip,Ema,100
+kip,Greta,103
+kip,Dani,107
+čajnik,Berta,15
+srebrn jedilni servis,Ema,27
+srebrn jedilni servis,Helga,30
+srebrn jedilni servis,Ema,35
+srebrn jedilni servis,Cilka,39
+srebrn jedilni servis,Helga,40
+srebrn jedilni servis,Greta,45
+srebrn jedilni servis,Ema,47
+srebrn jedilni servis,Cilka,49
+srebrn jedilni servis,Ema,53
+srebrn jedilni servis,Greta,55
+srebrn jedilni servis,Cilka,58
+srebrn jedilni servis,Greta,59
+srebrn jedilni servis,Cilka,62
+srebrn jedilni servis,Greta,63
+perzijska preproga,Fanči,16
+perzijska preproga,Helga,21
